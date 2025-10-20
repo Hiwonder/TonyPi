@@ -1,0 +1,9 @@
+#!/bin/bash
+export VERSION="|V1.1|2025-04-21|"
+export MACHINE_TYPE=TonyPi
+#Chinese/English
+export ASR_LANGUAGE=Chinese
+export MIC_TYPE=WonderEchoPro
+echo -e "|MACHINE|MIC_TYPE|: \033[32m|$MACHINE_TYPE|$MIC_TYPE|\033[0m"
+echo -e "ASR_LANGUAGE: \033[32m$ASR_LANGUAGE\033[0m"
+echo -e "VERSION: \033[32m$VERSION\033[0m"
