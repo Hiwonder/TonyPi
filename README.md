@@ -98,7 +98,7 @@ TonyPi/
 
 ## Version Information
 
-- **Current Version**: v1.0.0 (2024-10-20)
+- **Current Version**: 2025-8-26
 - **Supported Platform**: Raspberry Pi 5
 
 ### Related Technologies
