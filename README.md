@@ -3,7 +3,7 @@
 English | [中文](https://github.com/Hiwonder/TonyPi/blob/main/README_cn.md)
 
 <p align="center">
-  <img src="./sources/images/tonypi.png" alt="TonyPi Logo" width="400"/>
+  <img src="./sources/images/tonypi.png" alt="TonyPi Logo" width="600"/>
 </p>
 
 ## Product Overview
