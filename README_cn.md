@@ -3,7 +3,7 @@
 [English](https://github.com/Hiwonder/TonyPi/blob/main/README.md) | 中文
 
 <p align="center">
-  <img src="./sources/images/image.webp" alt="TonyPi Logo" width="400"/>
+  <img src="./sources/images/tonypi.png" alt="TonyPi Logo" width="400"/>
 </p>
 
 基于树莓派5的AI人形机器人，集成计算机视觉、语音交互、体感控制等AI功能。
