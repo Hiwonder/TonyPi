@@ -12,16 +12,6 @@ TonyPi is an AI humanoid robot developed by Hiwonder based on Raspberry Pi 5. It
 
 TonyPi also deploys multimodal AI large models. Combined with AI voice interaction box, it can understand the environment, plan actions and flexibly execute tasks, enabling more advanced embodied intelligence applications.
 
-<p align="center">
-  <img src="./sources/images/tonypi1.png" alt="TonyPi Action Editor" width="400"/>
-  <img src="./sources/images/tonypi2.png" alt="TonyPi AI Control" width="400"/>
-</p>
-
-<p align="center">
-  <img src="./sources/images/tonypi3.png" alt="TonyPi Vision Recognition" width="400"/>
-  <img src="./sources/images/tonypi4.png" alt="TonyPi Ball Kicking" width="400"/>
-</p>
-
 ## Video Tutorials
 
 - **Not a pro? Good!** TonyPi is designed for exploration🚀. Open-source, fully programmable, with guides: [Watch](https://www.youtube.com/shorts/dd1nveINoBk)
@@ -42,6 +32,10 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 
 ### AI Vision Functions
 
+<p align="center">
+  <img src="./sources/images/tonypi3.png" alt="TonyPi Vision Recognition" width="400"/>
+</p>
+
 - **Color Recognition** - Advanced color detection and identification
 - **Target Tracking** - Real-time object tracking with AI algorithms
 - **Face Detection** - Comprehensive face recognition capabilities
@@ -50,6 +44,10 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 - **Visual Patrol** - Intelligent visual surveillance and monitoring
 
 ### Motion Control Functions
+
+<p align="center">
+  <img src="./sources/images/tonypi4.png" alt="TonyPi Ball Kicking" width="400"/>
+</p>
 
 - **Ball Kicking** - Precise ball interaction and kicking motions
 - **Line Following** - Autonomous line tracking navigation
@@ -60,6 +58,10 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 
 ### Intelligent Interaction
 
+<p align="center">
+  <img src="./sources/images/tonypi2.png" alt="TonyPi AI Control" width="400"/>
+</p>
+
 - **Voice Interaction** - Natural language voice commands
 - **Gesture Control** - Hand gesture recognition and response
 - **Fall Detection** - Smart fall detection and recovery
@@ -67,6 +69,10 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 - **Follow Mode** - Person following capabilities
 
 ### Programming Interface
+
+<p align="center">
+  <img src="./sources/images/tonypi1.png" alt="TonyPi Action Editor" width="400"/>
+</p>
 
 - **Python Programming** - Complete Python SDK
 - **RPC Interface** - JSON-RPC remote calls

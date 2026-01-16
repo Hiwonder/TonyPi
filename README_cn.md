@@ -52,6 +52,10 @@ TonyPi还部署了多模态AI大模型,结合AI语音交互盒,它可以理解�
 
 ### 智能交互
 
+<p align="center">
+  <img src="./sources/images/tonypi2.png" alt="TonyPi AI控制" width="400"/>
+</p>
+
 - **语音交互** - 自然语言语音命令
 - **手势控制** - 手势识别和响应
 - **跌倒检测** - 智能跌倒检测和恢复
