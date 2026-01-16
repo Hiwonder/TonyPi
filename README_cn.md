@@ -14,11 +14,18 @@ TonyPi是幻尔基于树莓派5开发的AI人形机器人。它的机身搭载�
 
 TonyPi还部署了多模态AI大模型,结合AI语音交互盒,它可以理解环境、规划行动并灵活执行任务,能实现更多高阶具身智能应用。
 
+## 视频教程
+
+- **不是专业人士？太好了！** TonyPi专为探索而设计🚀。开源、完全可编程，附带教程: [观看](https://www.youtube.com/shorts/dd1nveINoBk)
+- **TonyPi怎么跟着我？** 🧐 没有魔法，只是MediaPipe！[观看](https://www.youtube.com/shorts/n23syDGUJUQ)
+- **为什么TonyPi跳舞比我好？** 🤔预设动作？可以自定义？怎么做？[观看](https://www.youtube.com/shorts/fmqSCdlf9nk)
+
+
 ## 官方资源
 
 ### Hiwonder官方
 
-- **官方网站**: [https://www.hiwonder.net/](https://www.hiwonder.net/)
+- **官方网站**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
 - **产品页面**: [https://www.hiwonder.com/products/tonypi](https://www.hiwonder.com/products/tonypi)
 - **官方文档**: [https://docs.hiwonder.com/projects/TonyPi/en/latest/](https://docs.hiwonder.com/projects/TonyPi/en/latest/)
 - **技术支持**: support@hiwonder.com

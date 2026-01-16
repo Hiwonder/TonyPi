@@ -12,11 +12,18 @@ TonyPi is an AI humanoid robot developed by Hiwonder based on Raspberry Pi 5. It
 
 TonyPi also deploys multimodal AI large models. Combined with AI voice interaction box, it can understand the environment, plan actions and flexibly execute tasks, enabling more advanced embodied intelligence applications.
 
+## Video Tutorials
+
+- **Not a pro? Good!** TonyPi is designed for exploration🚀. Open-source, fully programmable, with guides: [Watch](https://www.youtube.com/shorts/dd1nveINoBk)
+- **How's TonyPi following me?** 🧐 No magic, just MediaPipe! [Watch](https://www.youtube.com/shorts/n23syDGUJUQ)
+- **Why does TonyPi out-dance me?** 🤔Pre-made moves? Option to customize? How? [Watch](https://www.youtube.com/shorts/fmqSCdlf9nk)
+
+
 ## Official Resources
 
 ### Official Hiwonder
 
-- **Official Website**: [https://www.hiwonder.net/](https://www.hiwonder.net/)
+- **Official Website**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
 - **Product Page**: [https://www.hiwonder.com/products/tonypi](https://www.hiwonder.com/products/tonypi)
 - **Official Documentation**: [https://docs.hiwonder.com/projects/TonyPi/en/latest/](https://docs.hiwonder.com/projects/TonyPi/en/latest/)
 - **Technical Support**: support@hiwonder.com
