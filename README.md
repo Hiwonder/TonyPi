@@ -33,7 +33,7 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 ### AI Vision Functions
 
 <p align="center">
-  <img src="./sources/images/tonypi3.png" alt="TonyPi Vision Recognition" width="400"/>
+  <img src="./sources/images/tonypi3.png" alt="TonyPi Vision Recognition" width="600"/>
 </p>
 
 - **Color Recognition** - Advanced color detection and identification
@@ -46,7 +46,7 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 ### Motion Control Functions
 
 <p align="center">
-  <img src="./sources/images/tonypi4.png" alt="TonyPi Ball Kicking" width="400"/>
+  <img src="./sources/images/tonypi4.png" alt="TonyPi Ball Kicking" width="600"/>
 </p>
 
 - **Ball Kicking** - Precise ball interaction and kicking motions
@@ -59,7 +59,7 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 ### Intelligent Interaction
 
 <p align="center">
-  <img src="./sources/images/tonypi2.png" alt="TonyPi AI Control" width="400"/>
+  <img src="./sources/images/tonypi2.png" alt="TonyPi AI Control" width="600"/>
 </p>
 
 - **Voice Interaction** - Natural language voice commands
@@ -71,7 +71,7 @@ TonyPi also deploys multimodal AI large models. Combined with AI voice interacti
 ### Programming Interface
 
 <p align="center">
-  <img src="./sources/images/tonypi1.png" alt="TonyPi Action Editor" width="400"/>
+  <img src="./sources/images/tonypi1.png" alt="TonyPi Action Editor" width="600"/>
 </p>
 
 - **Python Programming** - Complete Python SDK

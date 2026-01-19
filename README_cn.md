@@ -53,7 +53,7 @@ TonyPi还部署了多模态AI大模型,结合AI语音交互盒,它可以理解�
 ### 智能交互
 
 <p align="center">
-  <img src="./sources/images/tonypi2.png" alt="TonyPi AI控制" width="400"/>
+  <img src="./sources/images/tonypi2.png" alt="TonyPi AI控制" width="600"/>
 </p>
 
 - **语音交互** - 自然语言语音命令
